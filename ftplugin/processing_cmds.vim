@@ -1,2 +1,2 @@
-":nnoremap <F5> :Pro <CR>
+:nnoremap <F6> :Prc <CR>
 
