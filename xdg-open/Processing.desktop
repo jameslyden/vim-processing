@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/processing/processing
+Path=/opt/processing
+Name=Processing
+Comment=Processing IDE
+Icon=/opt/processing/lib/icons/pde-128.png
